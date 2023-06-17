@@ -1,3 +1,9 @@
+#PyQuest
+#Kenneth Andrews
+#Southern New Hampshire University
+#IT-140: Introduction to Scripting
+#Module 7 Assignment
+
 import os #For determining Operating system, and clearing screen.
 
 
@@ -259,9 +265,13 @@ Room.current_room = room1 #Sets the current room to the starting room "Courtyard
 
 
 def main():
+
+    clear()
+
     print("You have been sent by the Heroes Guild to face the Mighty Noctimancer Detarr Ur'Mayan")
     print("You must navigate the castle searching for items to defeat the evil wizard.\n")
     new_line()
+
     print('Type "Help" for a list of commands\n')
     new_line()
 
@@ -269,7 +279,7 @@ def main():
     while True: #Loop until quit.
 
         if Room.current_room.enemy:
-            win_loss_condition()
+           win_loss_condition()
 
         Room.describe_room()
 
@@ -321,7 +331,5 @@ def main():
 
 #-------------------------------- END Main Gameplay Loop --------------------------------------------
 
-
-clear()
 main()
 
