@@ -29,4 +29,4 @@ In order to beat the game, the player must collect all 8 items before encounteri
 - [ ] combat system
 - [ ] Fully implement character Races
 - [ ] Fully implement character classes
-- [ ] Expreince and leveling system
+- [ ] Experience and leveling system
