@@ -1,5 +1,5 @@
 # PyQuest
-This is a simple text based game wmich can act as a basic framework for a larger text base dungeon crawler. Currently the game supports traveling between rooms, gathering items, checking inventory, etc. Weapons and armor currently have stats, but the character cannot equip items to their paperdoll, and there is no combat system at this time. There is a temporary win condition used as a placeholder. In order to win the game, the player must traverse all of the rooms and gather all 8 items before encountering the wizard. If the player encounters the wizard prematurely, they will lose the game.
+This is a simple text based game which can act as a basic framework for a larger text base dungeon crawler. Currently the game supports traveling between rooms, gathering items, checking inventory, etc. Weapons and armor currently have stats, but the character cannot equip items to their paperdoll, and there is no combat system at this time. There is a temporary win condition used as a placeholder. In order to win the game, the player must traverse all of the rooms and gather all 8 items before encountering the wizard. If the player encounters the wizard prematurely, they will lose the game.
 
 ## Downloading
 Git:
