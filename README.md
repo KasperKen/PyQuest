@@ -24,6 +24,7 @@ In order to beat the game, the player must collect all 8 items before encounteri
 - [x] Navigatable Rooms
 - [x] Character Generator
 - [x] Items and inventory
+- [ ] Convert Items from dictionarys to object instances
 - [ ] eqippable gear affects character stats
 - [ ] combat system
 - [ ] Fully implement character Races
